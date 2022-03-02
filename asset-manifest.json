@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RoshanApp/static/css/main.569a5030.css",
+    "main.js": "/RoshanApp/static/js/main.24c19323.js",
+    "static/media/aboutImage.png": "/RoshanApp/static/media/aboutImage.de1c6c5c480f8d3dcffc.png",
+    "static/media/s4.jpg": "/RoshanApp/static/media/s4.aa777babbfe2c288ad5a.jpg",
+    "static/media/s5.jpg": "/RoshanApp/static/media/s5.e979a43c1d42e693535c.jpg",
+    "static/media/homeImage.webp": "/RoshanApp/static/media/homeImage.503a6acf7a2fdaee6f1a.webp",
+    "static/media/s2.webp": "/RoshanApp/static/media/s2.e85f44f600ce3fda532c.webp",
+    "static/media/s1.webp": "/RoshanApp/static/media/s1.47707dc0afa492fc732c.webp",
+    "static/media/s6.webp": "/RoshanApp/static/media/s6.64fdbed1a5b01f235532.webp",
+    "static/media/s3.webp": "/RoshanApp/static/media/s3.2deec7ef25f5b4cea2ec.webp",
+    "index.html": "/RoshanApp/index.html",
+    "main.569a5030.css.map": "/RoshanApp/static/css/main.569a5030.css.map",
+    "main.24c19323.js.map": "/RoshanApp/static/js/main.24c19323.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.569a5030.css",
+    "static/js/main.24c19323.js"
+  ]
+}
